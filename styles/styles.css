@@ -20,7 +20,7 @@ body {
   margin-bottom: 15px;
 }
 
-.btn {
+/* .btn {
   width: 80px;
   height: 45px;
   line-height: 45px;
@@ -28,7 +28,7 @@ body {
   font-weight: bold;
   cursor: pointer;
   user-select: none;
-}
+} */
 
 .controls {
   display: flex;
